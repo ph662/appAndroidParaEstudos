@@ -1,1 +1,1 @@
-appAndroidParaEstudos
+Aplicativo Android no intuito de estudar a tecnologia.
